@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/31936885956887998819160925099166514389528_5/205/43458/0x00-shell_basics
+chmod u+x 0-current_working_directory
